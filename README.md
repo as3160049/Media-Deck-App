@@ -33,8 +33,8 @@ Search for photos, videos, and GIFs in one place, then save the results you want
 1. Clone the repository and enter the project directory:
 
    ```bash
-   git clone https://github.com/as3160049/ReduxProj.git
-   cd ReduxProj
+   git clone https://github.com/as3160049/Media-Deck-App.git
+   cd Media-Deck-App
    ```
 
 2. Install dependencies:
